@@ -1,7 +1,5 @@
 # Regression-Trees-on-TLC-Trip-Record-Data
 
-# Regression Trees Analysis: Predicting Taxi Tips
-
 This notebook demonstrates how to build and evaluate a regression tree model to predict taxi tip amounts using the NYC Taxi dataset. Below is a summary of the key steps and findings:
 
 ## Key Steps
